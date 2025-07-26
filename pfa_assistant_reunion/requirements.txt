@@ -1,0 +1,12 @@
+# requirements.txt
+torch
+torchvision
+torchaudio
+transformers
+datasets
+sounddevice
+librosa
+streamlit
+accelerate
+evaluate
+jiwer
